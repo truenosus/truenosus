@@ -1,5 +1,3 @@
-ALGONQUIN STUDENT
-COMPUTER PROGRAMMING ONLINE
-noah o.
+Noah Oosting github
 
-excited to learn github finally lol :)
+graduated 2022
